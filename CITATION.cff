@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+title: Dimensionless Mirror Framework
+authors:
+  - family-names: Qasemi
+    given-names: Marziyeh
+    email: marziyeh.qasemi@example.com
+    affiliation: Chemical Engineering (Biotechnology & Pharmaceutical Engineering)
+version: 1.0.0
+date-released: 2026-04-26
+doi: 10.0000/example.dmf
+message: "If you use this framework, please cite this work."
